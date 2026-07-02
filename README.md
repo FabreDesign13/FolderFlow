@@ -1,6 +1,13 @@
 # FolderFlow
+# Folder Flow
 
-FolderFlow は Mac OS Finder のカラム表示やリスト表示でデータをツリーで確認できる簡易ファイルマネージャーです。
+A simple and modern file manager for Windows.
+
+Folder Flow adds Finder-like column view, two-pane browsing, icon view, folder colors, and file previews to improve everyday file management on Windows.
+
+日本語:
+Folder Flow は、Windows のファイル管理をもっと快適にするための無料ファイルマネージャーです。
+Finder風カラム表示、2ペイン表示、大アイコン表示、フォルダカラー、各種プレビューに対応しています。
 
 <img width="1825" height="1126" alt="01" src="https://github.com/user-attachments/assets/f4781ee4-fd93-4b10-a899-387003838fa7" />
 <img width="1825" height="1126" alt="02" src="https://github.com/user-attachments/assets/340656af-768f-4600-ad73-906f8a50847d" />
